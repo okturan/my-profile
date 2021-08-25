@@ -1,5 +1,5 @@
 body {
-  background-color: #ef6e6c2c;
+  background-color: #9c6c6c2c;
   font-family: 'Open Sans', sans-serif;
   color: #202B47;
   font-size: 20px;
@@ -13,23 +13,27 @@ body {
   padding-bottom: 40px;
   text-align: center;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.123);
+  border-radius: 5px;
+}
+
+.card p {
+  margin: 0px 20%;
 }
 
 .card.main {
   margin-top: 40px;
+  padding-bottom: 10px;
 }
 
 .profile-pic {
+  margin-top: 20px;
+  margin-bottom: 20px;
   width: 160px;
   border-radius: 50%;
 }
 
 .h1, h2, h3 {
   font-family: 'Changa', sans-serif; 
-}
-
-p {
-  margin: 50px;
 }
 
 a {
@@ -43,6 +47,7 @@ a:hover {
 .social-media-icons {
   padding-left: 0;
   list-style: none;
+  margin-bottom: 0px;
 }
 
 .social-media-icons li {
@@ -51,10 +56,12 @@ a:hover {
   font-size: 40px;
 }
 
-.btn {
+#btn {
   padding: 12px;
   border-radius: 4px;
   background-color: #FFA630;
+  margin-top: 30px;
+  display: inline-block;
 }
 
 @media (max-width: 960px) {
