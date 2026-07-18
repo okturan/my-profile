@@ -26,4 +26,4 @@ open index.html
 
 The family, camera, and dad-joke copy is intentionally personal and retained as part of the learning artifact. The current engineering portfolio lives on [the GitHub profile](https://github.com/okturan); this repository is deliberately unpinned and should not be mistaken for the current profile front door.
 
-The repository has no package, release stream, or CI workflow because its only runtime is the static Pages deployment. Archiving it remains a separate owner decision.
+The repository has no package, release stream, or CI workflow because its only runtime is the static Pages deployment. It is archived as learning history, and no further development is planned.
